@@ -49,3 +49,6 @@ end
 # User authentication
 gem "devise"
 
+
+# User authorization
+gem "cancancan"
