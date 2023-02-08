@@ -52,3 +52,6 @@ gem "devise"
 
 # User authorization
 gem "cancancan"
+
+# linters
+gem "rubocop"
