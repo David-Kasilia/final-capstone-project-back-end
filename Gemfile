@@ -49,3 +49,6 @@ end
 # User authentication
 gem "devise"
 
+# Devise token auth
+gem "devise_token_auth"
+
